@@ -1,2 +1,10 @@
-# Docker-LAMP-202004
-【2020/04版】xamppと同様の環境をDockerで準備する
+# php-ecsite
+
+php で EC サイトを作成する演習です。
+環境構築は Docker で行っています。
+
+# 使用方法
+
+Docker を起動した状態で、クローン後に
+\$ docker-compose up -d
+を行うことで稼働できます。
